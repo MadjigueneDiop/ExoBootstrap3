@@ -106,8 +106,8 @@
     width:130px;
     height:60px;
     border-radius:7px;
-    position: relative;
-    left:180px;
+    /* position: relative;
+    left:180px; */
 }
 .carousel-inner{
     /* width:380px; */
@@ -177,8 +177,8 @@
    }
    .col{
     /* border: */
-    border-left: 1px solid white ;
-    height: 160px;
+    /* border-left: 1px solid white ;
+    height: 160px; */
     /* padding-top: 6%; */
    }
    .slide{
@@ -201,7 +201,6 @@
     top:10px;
     width:70px;
     height: 70px;
-    /* border-radius:60px; */
     margin: auto;
    }
 
@@ -226,13 +225,217 @@
     align-items: center;
     gap:20px;
 }
-   @media screen and (max-width:600){
-        .sombre{
-            display: flex;
-            /* justify-content: center; */
-            /* align-items: center; */
-            flex-direction: column;
-            height: 600px;
-        }
-    
-   }
+@media screen and (max-width: 768px) {
+    .hero {
+        margin: 20px;
+    }
+    .hero2{
+        display: flex;
+        margin: 20px;
+    }
+    .hero3{
+        width: 230px;
+    }
+    .hero4{
+        width: 230px;
+
+    }
+.mada1{
+    text-align: center;
+}
+.mada3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding-top:10px;
+}
+.Icone{
+    width:50px;
+}
+.slide1{
+    height: 480px;
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+}
+.card{
+   height:450px;
+   border-radius:20px;
+}
+.mada4{
+    position: relative;
+    bottom:130px;
+}
+footer{
+    height:890px;
+}
+.mada5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mada6{
+    height: 60px;
+}
+.mada7{
+    text-align: center;   
+    /* padding-top: 10px; */
+}
+.mada8{
+    text-align: center;   
+    position: relative;
+    top:50px;
+}
+.mada9{
+    text-align: center;   
+    position: relative;
+    top:88px;
+
+}
+.mada10{
+    text-align: center;   
+    position: relative;
+    /* top:113px; */
+    top:120px;
+
+}
+.mada100{
+    text-align: center;   
+    position: relative;
+    top:139px;
+
+}
+.mada101{
+    text-align: center;   
+    position: relative;
+    top: 10px;
+ }
+.copyrights{
+    position: relative;
+    top:190px;
+}
+.mada11{
+    border-top: 1px solid white ;
+    height: 160px;
+    width:300px;
+    position: relative;
+    /* bottom:160px; */
+}
+.col{
+    position: relative;
+    /* top:190px; */
+}
+.log{
+    width: 330px;
+    height:190px;
+}
+.mada12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:30px;
+}
+.mada13{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:23px;
+}
+.mada14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:58px;
+}
+.mada15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:70px;
+}
+.mada16{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:15px;
+}
+.mada17{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    bottom:6px;
+}
+.mada18{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:77px;
+}
+
+
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+}
+.mada19{
+    text-align: center;
+    position: relative;
+    bottom:23px;
+
+}
+.mada20{
+    display: flex;
+    flex-direction: column;
+}
+.mada21{
+    display: flex;
+    flex-direction: column;
+}
+.mada22{
+    width:350px;
+    border-radius:20px;
+}
+.mada23{
+    display: flex;
+    flex-direction: column-reverse;
+    position: relative;
+    top:20px;
+}
+.loli{
+    display: flex;
+    flex-direction: column;
+}
+.entry{
+    height:90px;
+}
+.btn6{
+    position: relative;
+    left:60px;
+    bottom:20px;
+    width:120px;
+    height:50px;
+    font-size: 10px; */
+    /* right:390px; */
+}
+}
+@media screen and (max-width: 600px) {
